@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tests_lab7.dir/tests/test_async.cpp.o -o tests_lab7  /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 
